@@ -1,0 +1,14 @@
+html{
+    width: 800px;
+    height: 600px;
+    background: url(../Images/Wallpaper1024.jpg) no-repeat;
+    background-size: cover;
+    filter: grayscale(1);
+    transition: 0.5s;
+}
+
+html:hover {
+    background: url(../Images/Wallpaper1024.jpg) no-repeat;
+    filter: grayscale(0);
+    background-size: cover;
+}

@@ -1,0 +1,41 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    font-family: "Trebuchet MS", serif;
+    height: 97vh;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+a:visited{
+    cursor: pointer;
+    text-decoration: underline;
+    color: orangered;
+    backdrop-filter: opacity(50%);
+}
+
+a:focus{
+    cursor: pointer;
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+a:active{
+    cursor: pointer;
+    text-decoration: underline;
+    color: darkorange;
+}

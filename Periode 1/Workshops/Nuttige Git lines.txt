@@ -1,0 +1,32 @@
+$ touch 	= maak bestand aan
+$ git init 	= maak een lokale git repo
+
+$ git config --global user.name 'Youri Blanckenborg'
+$ git config --global user.email 'y.blanckenborg@gmail.com'
+
+$ git add 	= voeg bestanden toe aan lokale repository
+$ git status	= laat de huidige toestand zien
+
+$ git rm --cached = verwijder bestand uit lokale repository
+
+$git commit 			= open editor(druk op I om te typen)
+$git commit -m 'beschrijving' 	= snelle commit
+:wq 				= sluit editor
+
+bestanden benoemd in het .gitignore bestand worden niet meegenomen in een.
+
+/dir 	= voeg map toe in .gitignore
+*.txt	= sla alle .txt bestanden in de gitignore over (voer ze WEL uit)
+
+$ git branch branch1	= maak een branch aan.
+$ git checkout branch1 	= ga naar branch.
+
+$ git merge branch1		= (vanuit Master) merge de bestanden met die in de branch.
+
+$ git remote add origin <server> = verbind lokaal met github
+
+$ git push -u origin master 	= verplaats de master naar github en vervang de lokale versie.
+
+$ git clone	= haal alles van de server en plaats in lokale repo
+
+$ git pull	= ververs de lokale bestanden met bestanden uit server

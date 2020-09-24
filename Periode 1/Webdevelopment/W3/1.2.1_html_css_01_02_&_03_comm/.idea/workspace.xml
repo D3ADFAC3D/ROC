@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a1bc319-5c87-4bd3-a5ca-518576a4950d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1hJu9JlEPFWnx1ib04Kf6dtvqQp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\School\ROC van Twente\Periode 1\Webdevelopment\W3\1.2.1_html_css_01_comm\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a1bc319-5c87-4bd3-a5ca-518576a4950d" name="Default Changelist" comment="" />
+      <created>1599741363791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599741363791</updated>
+      <workItem from="1599741364866" duration="2498000" />
+      <workItem from="1599812167820" duration="2742000" />
+      <workItem from="1599825579326" duration="7832000" />
+      <workItem from="1599849131668" duration="776000" />
+      <workItem from="1599895025333" duration="10836000" />
+      <workItem from="1600001571128" duration="269000" />
+      <workItem from="1600001978300" duration="431000" />
+      <workItem from="1600002499553" duration="6324000" />
+      <workItem from="1600009466373" duration="1625000" />
+      <workItem from="1600014809476" duration="27000" />
+      <workItem from="1600014971055" duration="689000" />
+      <workItem from="1600022267897" duration="798000" />
+      <workItem from="1600086606751" duration="625000" />
+      <workItem from="1600089286814" duration="1460000" />
+      <workItem from="1600161113972" duration="822000" />
+      <workItem from="1600163747726" duration="393000" />
+      <workItem from="1600181247563" duration="1344000" />
+      <workItem from="1600339476028" duration="855000" />
+      <workItem from="1600425112821" duration="185000" />
+      <workItem from="1600454455891" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600339730324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600339730324" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1599742491840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599742491840" />
+    <state x="731" y="393" width="621" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599742490170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="393" width="621" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599742490170" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1599905740454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599905740454" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600008713916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600008713916" />
+  </component>
+</project>
