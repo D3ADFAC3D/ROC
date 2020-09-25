@@ -1,0 +1,95 @@
+html{
+    background-color: grey;
+}
+
+body{
+    border: 1px solid black;
+    background-color: mediumslateblue;
+    font-family: "Segoe UI", sans-serif;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: mediumslateblue;
+}
+
+#div1{
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    margin: auto auto 2% auto;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    text-align: center;
+}
+#div2{
+    width: 80%;
+    height: 300px;
+    font-size: 30px;
+    margin: auto auto 3% auto;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    text-align: center;
+    background: rgb(184, 195, 131) url("../images/social-google-box-icon.png") no-repeat top right;
+    animation-name: resolutie;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+#wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+}
+
+#div3{
+    width: 80%;
+    height: 70%;
+    font-size: 40px;
+    margin: 10px auto 2% auto;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    text-align: center;
+    background: url("../images/firefox.png") no-repeat center left;
+}
+
+#div4{
+    width: 90%;
+    height: 60%;
+    font-size: 80px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2% 0 5% 0;
+}
+
+.yellowBack01{
+    background-color: rgb(184, 195, 131);
+}
+.yellowBack02{
+    background-color: rgba(217, 223, 82, 0.5);
+}
+.yellowBack03{
+    background-color: rgba(232, 236, 49, 0.5);
+}
+.red50{
+    color: red;
+    opacity: 50%;
+}
+
+@keyframes resolutie {
+    from{
+        transform: scaleY(1);
+    } to{
+    transform: scaleY(-1);
+          }
+}
+
+
+
