@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59474cfe-8c9b-4436-b9a5-105d9fa11ad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.2_Flexbox01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/1.4.3_Flexbox02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.3_Flexbox02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/1.4.4_Keyframe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/images/firefox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/images/social-google-box-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../W5/1.4.2_Flexbox01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W5/1.4.2_Flexbox01/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59474cfe-8c9b-4436-b9a5-105d9fa11ad8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../W5/1.4.4_Keyframe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -75,6 +50,7 @@
       <workItem from="1600086745850" duration="488000" />
       <workItem from="1600089266306" duration="618000" />
       <workItem from="1601016101897" duration="1774000" />
+      <workItem from="1601028760796" duration="133000" />
     </task>
     <servers />
   </component>
@@ -85,9 +61,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600089282425">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601028892237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600089282425" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601028892237" />
   </component>
 </project>
