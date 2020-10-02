@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1bc319-5c87-4bd3-a5ca-518576a4950d" name="Default Changelist" comment="" />
+    <list default="true" id="6a1bc319-5c87-4bd3-a5ca-518576a4950d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/W6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W5/1.4.4_Keyframe/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
   <component name="ProblemsViewState">
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1hJu9JlEPFWnx1ib04Kf6dtvqQp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,6 +82,7 @@
       <workItem from="1600339476028" duration="855000" />
       <workItem from="1600425112821" duration="185000" />
       <workItem from="1600454455891" duration="141000" />
+      <workItem from="1601622986331" duration="758000" />
     </task>
     <servers />
   </component>

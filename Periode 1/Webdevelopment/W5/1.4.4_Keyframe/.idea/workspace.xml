@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fa9a71e-cf5f-4df4-a02e-8568fe7bd75d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../W3/1.2.4_html_css_div/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W3/1.2.4_html_css_div/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W6/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../W6" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,6 +41,7 @@
       <updated>1601020059167</updated>
       <workItem from="1601020060498" duration="6115000" />
       <workItem from="1601028894896" duration="2653000" />
+      <workItem from="1601622178185" duration="809000" />
     </task>
     <servers />
   </component>
@@ -51,6 +52,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601622762521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601622762521" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601024337413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
