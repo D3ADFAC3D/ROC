@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac59bc8-e9c8-4ff2-b791-e8a8845d905e" name="Default Changelist" comment="" />
+    <list default="true" id="6127d456-df8f-4085-9447-739e44f73b3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1.5.1_Tabellen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/1.5.2_Tabellen_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/W6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/W6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectId" id="1iJPXpNbv6tTLuvKSvoeU3rKm5M" />
+  <component name="ProjectId" id="1iJTNRxTxKDdXXEJjZonP7xZM0N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -22,38 +42,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ac59bc8-e9c8-4ff2-b791-e8a8845d905e" name="Default Changelist" comment="" />
-      <created>1601622764097</created>
+      <changelist id="6127d456-df8f-4085-9447-739e44f73b3e" name="Default Changelist" comment="" />
+      <created>1601624656158</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601622764097</updated>
-      <workItem from="1601622765350" duration="1301000" />
-      <workItem from="1601624200391" duration="54000" />
+      <updated>1601624656158</updated>
+      <workItem from="1601624657828" duration="135000" />
+      <workItem from="1601624799899" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601622981801">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601624752927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601622981801" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1601624248559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601624248559" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601624752927" />
   </component>
 </project>

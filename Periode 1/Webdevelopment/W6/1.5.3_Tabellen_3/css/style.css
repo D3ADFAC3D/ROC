@@ -1,0 +1,50 @@
+#table1{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    position: relative;
+}
+
+#table2{
+    height: 100%;
+    width: 100%;
+}
+.corner{
+    text-align: center;
+    width: 25%;
+}
+.links{
+    text-align: left;
+    width: 25%;
+}
+
+#table3{
+    height: 100%;
+    width: 100%;
+}
+
+#table4{
+    height: 100%;
+    width: 100%;
+}
+
+.width50{
+    width: 50%;
+}
+.height90{
+    height: 90%;
+}
+.background1{
+    background: url("../images/Avatar_Archery.jpg") no-repeat right;
+    background-size: 50%;
+}
+
+.background2{
+    background: url("../images/MrBean_Avatar.jpg") no-repeat left;
+    background-size: 50%;
+}
+
+.background3{
+    background: url("../images/Avatar_Love.jpg") no-repeat right;
+    background-size: 80%;
+}

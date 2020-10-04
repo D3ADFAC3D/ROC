@@ -1,0 +1,79 @@
+div {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 0.7;
+    text-align: center;
+    font-size: 1.7rem;
+    color: aliceblue;
+}
+
+.verticaal {
+    transform: rotate(-30deg);
+    margin: 30px 20px 0 0;
+    animation-name: draaien;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+}
+
+#een {
+    background: blue;
+    position: relative;
+    z-index: 1;
+}
+
+#twee {
+    background: deeppink;
+    position: relative;
+    top: -165px;
+    left: 30px;
+    z-index: 2;
+}
+
+#drie {
+    background: green;
+    position: relative;
+    top: -332.5px;
+    left: 60px;
+    z-index: 3;
+}
+
+@keyframes draaien {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+        border-radius: 50%;
+    }
+}
+
+@keyframes textToCircel {
+    from {
+        width: 80%;
+        height: 80%;
+        border-radius: 50%;
+        background: white;
+        position: relative;
+        left: 20px;
+        top: -94px;
+        opacity: 100;
+    }
+    to {
+        width: 80%;
+        height: 80%;
+        border-radius: 50%;
+        background: white;
+        position: relative;
+        left: 20px;
+        top: -94px;
+    }
+}
+
+.witteCircel {
+    animation-name: textToCircel;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+}

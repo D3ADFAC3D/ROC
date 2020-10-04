@@ -1,0 +1,79 @@
+body{
+    background-color: lightskyblue;
+}
+table{
+    /*border: 10px limegreen outset;*/
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    border: 5px outset #0c0;
+}
+tr{
+
+    border: 10px limegreen outset;
+}
+td{
+    border-right-width: 5px;
+    border-left-width: 5px;
+    border-right-style: ridge;
+    border-right-color: #cf0;
+    border-left-style: groove;
+    border-left-color: #cf0;
+}
+.opmaak1{
+    width: 25%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.ROC{
+    width: 250px;
+    height: 300px;
+}
+.ROC img{
+    width: 100%;
+}
+.school{
+    width: 250px;
+}
+.school img{
+    width: 100%;
+}
+
+.webschool{
+    width: 100px;
+    text-align: center;
+
+}
+.webschool a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.tdborder{
+    border-left-style: groove;
+    border-left-color: #cf0;
+    border-right-style: solid;
+    border-right-color: #cf0;
+    border-bottom: 2px limegreen inset;
+    border-top: 2px limegreen inset;
+    text-align: center;
+    font-weight: bold;
+    width: fit-content;
+}
+.tdborder2{
+    border-left-style: groove;
+    border-left-color: #cf0;
+    border-right-style: solid;
+    border-right-color: #cf0;
+    border-bottom: 2px limegreen inset;
+    border-top: 2px limegreen inset;
+    text-align: center;
+    font-weight: bold;
+}
+.geenopmaak{
+    border: 2px limegreen inset;
+    text-align: center;
+    font-weight: bold;
+}
+
