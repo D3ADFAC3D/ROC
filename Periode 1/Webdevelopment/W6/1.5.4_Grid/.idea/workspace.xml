@@ -2,63 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001b7864-4fb0-47e2-8ad9-45f089883306" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/1.5.1_Tabellen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/1.5.2_Tabellen_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/fig20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/fig21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/images/ROC_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/images/Schoolgebouw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/images/Schoolgebouw2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/images/Schoolgebouw3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.2_Tabellen_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/.idea/1.5.3_Tabellen_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/images/Avatar_Archery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/images/Avatar_Love.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/images/MrBean_Avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.3_Tabellen_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1.5.4_Grid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/NOS logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/1.5.5._Z-index.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.5.5._Z-index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/W6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/W6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.5.1_Tabellen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.5.1_Tabellen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1.5.1_Tabellen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/1.6.1_Video.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/Opdracht8-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/Opdracht8-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/Opdracht8-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/audio/Rooler - YES [GBD240].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/audio/Rooler - YES [GBD240].ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/indexOpdrachtA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/indexOpdrachtB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../W7/1.6.1_Video/video/Papa Roach - Last Resort (Warface &amp; Deadly Guns Bootleg HQ RIP).mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.5.5._Z-index" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../W7/1.6.1_Video" />
     <property name="list.type.of.created.stylesheet" value="textmate" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -105,6 +67,8 @@
       <updated>1601716586571</updated>
       <workItem from="1601716587766" duration="9547000" />
       <workItem from="1601798537263" duration="5151000" />
+      <workItem from="1601844392186" duration="1971000" />
+      <workItem from="1601886649469" duration="752000" />
     </task>
     <servers />
   </component>
@@ -119,10 +83,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601716649529" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601802745508">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601886671427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601802745508" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601886671427" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1601801350363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

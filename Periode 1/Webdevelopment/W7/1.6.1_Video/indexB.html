@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author">
+    <meta content="0331038 Youri Blanckenborg">
+    <link rel="stylesheet" href="CSS/stylesheet.css">
+    <title>1.6.1 HTML 14 Video B</title>
+</head>
+<body>
+<div id="wrapper">
+    <header>
+        <ul>
+            <li>Home</li>
+            <li>Playlist</li>
+            <li>Formulier</li>
+            <li>Contact</li>
+        </ul>
+    </header>
+    <div id="container">
+        <main>
+            <div id="albums">
+                <ul>
+                    <li>
+                        <a
+                                onclick="document.getElementById('album-1').style.display='flex';
+                        document.getElementById('album-2').style.display='none';
+                        document.getElementById('album-3').style.display='none'">
+                            <img src="images/InitialD.jpg" alt="album-1"></a>
+                    </li>
+                    <li>
+                        <a
+                                onclick="document.getElementById('album-1').style.display='none';
+                        document.getElementById('album-2').style.display='flex';
+                        document.getElementById('album-3').style.display='none'">
+                            <img src="images/MajorTom.jpg" alt="album-2"></a>
+                    </li>
+                    <li>
+                        <a
+                                onclick="document.getElementById('album-1').style.display='none';
+                        document.getElementById('album-2').style.display='none';
+                        document.getElementById('album-3').style.display='flex'">
+                            <img src="images/A&M.jpg" alt="album-3"></a>
+                    </li>
+                </ul>
+            </div>
+        </main>
+        <div id="multimedia">
+            <div id="album-1" style="display: flex">
+                <video controls width="80%" preload poster="images/InitialD.jpg">
+                    <source src="video/Initial%20D%20Forever%20Young%20HD.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div id="album-2" style="display: none">
+                <video controls width="80%" preload poster="images/MajorTom.jpg">
+                    <source src="video/Jiyagi%20ft.%20Kid%20Berry%20-%20Major%20Tom%20(Frenchcore)%20(Videoclip).mp4"
+                            type="video/mp4">
+                </video>
+            </div>
+            <div id="album-3" style="display: none">
+                <video controls width="80%" preload poster="images/A&M.jpg">
+                    <source src="video/Angerfist%20&%20Miss%20K8%20-%20Santiago%20(Tha%20Playah%20Remix).mp4"
+                            type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

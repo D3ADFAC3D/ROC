@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2265c4f8-1be7-4248-84e7-dc008f9dc576" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/1.6.1_Video.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/Opdracht8-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/Opdracht8-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/Opdracht8-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/audio/Rooler - YES [GBD240].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/audio/Rooler - YES [GBD240].ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/indexOpdrachtA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/indexOpdrachtB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6.1_Video/video/Papa Roach - Last Resort (Warface &amp; Deadly Guns Bootleg HQ RIP).mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W6/1.5.4_Grid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../W6/1.5.4_Grid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W6/1.5.4_Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../W6/1.5.4_Grid/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1iS51HJFTcTpNjj0CKFLIcBXCTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1.6.1_Video" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2265c4f8-1be7-4248-84e7-dc008f9dc576" name="Default Changelist" comment="" />
+      <created>1601887935350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601887935350</updated>
+      <workItem from="1601887936415" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601887943022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601887943022" />
+  </component>
+</project>

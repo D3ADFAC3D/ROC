@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ff72758-4a0d-4043-b619-d034a152d3c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1.6.1_Video.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht8-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht8-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht8-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/PapaRoach-LastResortWarfaceDeadl.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/Rooler - YES [GBD240].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/Rooler - YES [GBD240].ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/A&amp;M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/InitialD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MajorTom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/album-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/album-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/album-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/Angerfist &amp; Miss K8 - Santiago (Tha Playah Remix).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/Initial D Forever Young HD.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/Jiyagi ft. Kid Berry - Major Tom (Frenchcore) (Videoclip).mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W6/1.5.4_Grid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W6/1.5.4_Grid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W6/1.5.4_Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../W6/1.5.4_Grid/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1iS2SaSJY0yOxepTc2NbAQTQuNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\School\ROC van Twente\Periode 1\Webdevelopment\W7\1.6.1_Video\audio" />
+      <recent name="D:\OneDrive\School\ROC van Twente\Periode 1\Webdevelopment\W7\1.6.1_Video\video" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff72758-4a0d-4043-b619-d034a152d3c8" name="Default Changelist" comment="" />
+      <created>1601886672546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601886672546</updated>
+      <workItem from="1601886673831" duration="1195000" />
+      <workItem from="1601887881051" duration="54000" />
+      <workItem from="1601887945688" duration="1552000" />
+      <workItem from="1601904864276" duration="8546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601887758608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601887758608" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601887933571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601887933571" />
+    <state x="652" y="242" key="NewPhpClassDialog" timestamp="1601886862324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601886862324" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1601887965758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601887965758" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601918184214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601918184214" />
+  </component>
+</project>
