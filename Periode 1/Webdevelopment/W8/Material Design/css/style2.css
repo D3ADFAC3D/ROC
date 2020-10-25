@@ -1,0 +1,41 @@
+#papier{
+    height: 300px;
+    background-color: #EEEEEE;
+}
+#veld{
+    z-index: 1;
+    width: 300px;
+    height: 250px;
+    border: 1px #000 solid;
+}
+.centreren{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bal{
+    position: relative;
+    animation-name: play;
+    animation-iteration-count: infinite;
+    animation-duration: 4.2s;
+    z-index: 2;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #03A9F4;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0 solid #ccc;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+@keyframes play {
+    from,
+    to{
+        top: 0;
+        animation-timing-function: ease-in;
+    }
+    50%{
+        top: 200px;
+        animation-timing-function: ease-in;
+    }
+}

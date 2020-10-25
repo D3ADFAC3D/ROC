@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4acf1c46-a190-4a71-baff-eed1c0ede43e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Webdevelopment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/1.6.2_Formulier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.2_Formulier/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/1.6.3_Contact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.3_Contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W7/1.6.4_&amp;_1.6.5_Responsiveness/.idea/1.6.4_Responsiveness.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avengers/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avengers/images/Avengers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avengers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Material Design/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Material Design/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Material Design/materialbewegingen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Material Design/materialdesign.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../W7/1.6.1_Video/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/CSS/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../W7/1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/Opdracht8-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/Opdracht8-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/Opdracht8-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/audio/Rooler - YES [GBD240].mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/audio/Rooler - YES [GBD240].ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W7/1.6.1_Video/indexB.html" beforeDir="false" afterPath="$PROJECT_DIR$/../W7/1.6.1_Video/indexB.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jEZrZnIawiFoWvIwjaJxSJEIo1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\School\ROC van Twente\Periode 1\Webdevelopment\W8\Material Design" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4acf1c46-a190-4a71-baff-eed1c0ede43e" name="Default Changelist" comment="" />
+      <created>1603371410823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603371410823</updated>
+      <workItem from="1603371411863" duration="372000" />
+      <workItem from="1603371835562" duration="54000" />
+      <workItem from="1603371930975" duration="283000" />
+      <workItem from="1603372225456" duration="1376000" />
+      <workItem from="1603374151718" duration="1643000" />
+      <workItem from="1603387922034" duration="2534000" />
+      <workItem from="1603445788822" duration="876000" />
+      <workItem from="1603456447217" duration="243000" />
+      <workItem from="1603557293320" duration="703000" />
+      <workItem from="1603563927765" duration="599000" />
+      <workItem from="1603632181965" duration="2769000" />
+      <workItem from="1603635000297" duration="45000" />
+      <workItem from="1603635137384" duration="8397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="160" key="#Plugins" timestamp="1603371733924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1603371733924" />
+    <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603371504211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603371504211" />
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603375352359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1603375352359" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603635169970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603635169970" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+* {
+box-sizing: border-box;
+}
+h1{
+    margin: 8px auto;
+    padding: 4px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.column{
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.inhoud{
+    background: #ddd;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.inhoud p{
+    margin: 16px auto auto auto;
+    padding: 4px;
+}
+
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}

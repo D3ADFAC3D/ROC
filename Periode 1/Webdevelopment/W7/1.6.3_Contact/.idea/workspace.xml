@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="866cf26f-39dd-414c-8245-30c93efefa1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/1.6.2_Formulier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1.6.3_Contact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/1.6.4_Responsiveness.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/CSS/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/images/pexels-raphael-brasileiro-2920850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1idk3oSAbfhsGuYCWcaPiM8Xhjf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.6.4_Responsiveness" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866cf26f-39dd-414c-8245-30c93efefa1d" name="Default Changelist" comment="" />
+      <created>1602244659481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602244659481</updated>
+      <workItem from="1602244660625" duration="3863000" />
+      <workItem from="1602337037065" duration="2474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602338230326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602338230326" />
+  </component>
+</project>

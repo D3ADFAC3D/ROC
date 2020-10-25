@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author">
+    <meta content="0331038 Youri Blanckenborg">
+    <link rel="stylesheet" href="CSS/stylesheet.css">
+    <title>1.6.2 HTML 15 Formulier</title>
+</head>
+<body>
+    <div id="container">
+        <main>
+            <form name="formulier"
+            action="mailto: postmaster@radiogaga.com"
+            method="post">
+                <fieldset>
+                    <legend><b>Inschrijfformulier</b></legend>
+                    <select required name="cursus" id="cursus">
+                        <option value="0">Kies een Cursus</option>
+                        <option value="HTML">HTML</option>
+                        <option value="JAVA">JAVA</option>
+                        <option value="C#">C#</option>
+                    </select> <br>
+                    <select required name="locatie" id="locatie">
+                        <option value="0">Kies een Locatie</option>
+                        <option value="Amsterdam">Amsterdam</option>
+                        <option value="Groningen">Groningen</option>
+                        <option value="Eindhoven">Eindhoven</option>
+                    </select> <br>
+                    <label for="datum">Begindatum </label> <br>
+                    <input required type="date" name="datum" id="datum"> <br>
+
+                    <input required type="text" id="voornaam" name="voornaam" placeholder="Voornaam"><br>
+                    <input required type="text" id="achternaam" name="achternaam" placeholder="Achternaam"><br>
+                    <input required type="text" id="adres" name="adres" placeholder="Adres"><br>
+                    <input required type="text" id="woonplaats" name="woonplaats" placeholder="Woonplaats" list="steden"><br>
+                    <datalist id="steden">
+                        <option value="Amsterdam"></option>
+                        <option value="Utrecht"></option>
+                        <option value="Antwerpen"></option>
+                        <option value="Apeldoor"></option>
+                        <option value="Brussel"></option>
+                        <option value="Rotterdam"></option>
+                    </datalist>
+                    <input required type="email" id="email" name="email" placeholder="E-mail"><br>
+                    <input required type="text" id="mobiel" name="mobiel" placeholder="Mobiel"><br>
+                    <label for="voorkeur">Geef je voorkeur aan: </label> <br>
+                    Avondschool <input required type="checkbox" name="voorkeur" value="A"><br>
+                    Weekendschool <input required type="checkbox" name="voorkeur" value="W"><br>
+                    Geen voorkeur <input required type="checkbox" name="voorkeur" value="G"><br>
+                    <br>
+                    <label for="niveau">Wat is je opleidingsniveau</label> <br>
+                    <input type="range" name="niveau" id="niveau" min="1" max="5" >
+                </fieldset>
+                <input type="submit" id="verzend" name="verzend" value="Verzend">
+            </form>
+        </main>
+    </div>
+</body>
+</html>
