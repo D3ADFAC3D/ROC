@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4820ebc6-3ef9-4c53-a3ad-71f85f6dee18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../W3/1.2.4_html_css_div/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/1.4.3_Flexbox02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4.3_Flexbox02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W7/1.6.3_Contact/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W7/1.6.3_Contact/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W7/1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W7/1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.4.3_Flexbox02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,6 +55,7 @@
       <workItem from="1600944201250" duration="4852000" />
       <workItem from="1600967705837" duration="185000" />
       <workItem from="1601016085987" duration="230000" />
+      <workItem from="1604653887765" duration="1576000" />
     </task>
     <servers />
   </component>

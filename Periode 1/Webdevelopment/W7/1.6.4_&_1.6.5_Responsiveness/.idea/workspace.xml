@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b04fed-96b7-4463-b8b8-47438e1661f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/1.6.2_Formulier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/1.6.3_Contact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.3_Contact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1.6.4_Responsiveness.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ben-pham-TzgbYnxj5I8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jesse-dodds-maNJHSKNWcc-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/miguel-davis-kVBggD5GFmY-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-belle-co-345753.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-haugenzhays-zhang-1798631.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-pixabay-355241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-raphael-brasileiro-2920850.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-simon-migaj-747964.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-simon-migaj-949193.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +47,8 @@
       <workItem from="1602498223490" duration="3272000" />
       <workItem from="1602580225998" duration="6651000" />
       <workItem from="1602596442122" duration="612000" />
+      <workItem from="1603966232258" duration="1820000" />
+      <workItem from="1603974007186" duration="5000" />
     </task>
     <servers />
   </component>

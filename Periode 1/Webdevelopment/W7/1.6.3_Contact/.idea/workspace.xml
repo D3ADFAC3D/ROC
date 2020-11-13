@@ -2,43 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="866cf26f-39dd-414c-8245-30c93efefa1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/1.6.2_Formulier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.2_Formulier/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1.6.3_Contact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/1.6.4_Responsiveness.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/CSS/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/images/pexels-raphael-brasileiro-2920850.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.6.4_Responsiveness/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LB/Debat Mondkapjes Youri Blanckenborg 0331038.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/CSS/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/Opdracht8-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/PapaRoach-LastResortWarfaceDeadl.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/audio/Rooler - YES [GBD240].ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.1_Video/indexB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../W8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.6.4_Responsiveness" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +45,7 @@
       <updated>1602244659481</updated>
       <workItem from="1602244660625" duration="3863000" />
       <workItem from="1602337037065" duration="2474000" />
+      <workItem from="1604647641657" duration="1348000" />
     </task>
     <servers />
   </component>
