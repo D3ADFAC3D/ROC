@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="419efca3-3127-4721-9ec8-ab903ef008ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/Project Puppylove JYY/.idea/Project Puppylove JYY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W2/.idea/W2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Webdevelopment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/Bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Periode 2/W1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/W1/interactieve.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/W1/js_lab01/lab01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/W1/variabelen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W3/1.2.1_html_css_01_02_&amp;_03_comm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W5/1.4.2_Flexbox01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W5/1.4.2_Flexbox01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W7/1.6.3_Contact/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W7/1.6.3_Contact/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W7/1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W7/1.6.4_&amp;_1.6.5_Responsiveness/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Periode 1/Webdevelopment/W8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605262297147</updated>
-      <workItem from="1605262298183" duration="5178000" />
+      <workItem from="1605262298183" duration="5740000" />
     </task>
     <servers />
   </component>
